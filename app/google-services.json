@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "450187218731",
+    "firebase_url": "https://emichat-1121f.firebaseio.com",
+    "project_id": "emichat-1121f",
+    "storage_bucket": "emichat-1121f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450187218731:android:d35b33ce1de1af1df73f6e",
+        "android_client_info": {
+          "package_name": "com.diegoalarcon.emichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450187218731-uvce1l5ud4g7arcl7bfd187keku8nikt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diegoalarcon.emichat",
+            "certificate_hash": "d379ce234dc40cb2cae42475e36bfbdfb2183599"
+          }
+        },
+        {
+          "client_id": "450187218731-npqavuir1ui8oeakn6pnh2b9g2p2v07f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACloLZypIhnaNTUu6BRcP7_tFTJSXduYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450187218731-npqavuir1ui8oeakn6pnh2b9g2p2v07f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

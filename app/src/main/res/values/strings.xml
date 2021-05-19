@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">EmiChat</string>
+
+    <!-- Login View -->
+    <string name="login_email">E-mail</string>
+    <string name="login_password">Password</string>
+    <string name="login_confirm_password">Confirmar Password</string>
+    <string name="login_sign_in">Iniciar Sesion</string>
+    <string name="login_sign_up">Unirse</string>
+    <string name="login_reset_password">Restablecer Contraseña</string>
+    <string name="login_sign_in_google">Iniciar Sesion con Google</string>
+    <string name="login_forgot_password">Olvide Mi Password</string>
+    <string name="login_create_account">Crear Una Nueva Cuenta</string>
+    <string name="login_go_login">Vuelve al LogIn</string>
+    <!--Bottom Navigation Menu-->
+    <string name="navigation_bottom_info">Info</string>
+    <string name="navigation_bottom_rates">Favoritos</string>
+    <string name="navigation_bottom_chat">Chat</string>
+    <string name="chat_edit_text_message_hint">Escribe un mensaje</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="info_label_messages">Total messages</string>
+    <string name="info_no_name">Name is not available</string>
+
+    <string name="options_menu_log_out">Log Out</string>
+    <string name="dialog_tittle">Puntua la Apk</string>
+    <string name="dialog_edit_text_hint">Leave your feedback</string>
+    <string name="dialog_ok">Puntuar</string>
+    <string name="dialog_cancel">Cancel</string>
+
+
+</resources>
